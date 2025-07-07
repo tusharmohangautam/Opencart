@@ -1,0 +1,11 @@
+Dear Hiring Team,
+
+I am writing to express my interest in the QA Engineer position. With 2 years of experience in software testing, I have a strong foundation in both manual and automation testing of web applications. I have worked on writing test cases, executing test plans, logging defects, and automating test scenarios using tools like Selenium, TestNG, and Postman.
+
+I am eager to bring my skills, attention to detail, and passion for quality to your team, and I look forward to the opportunity to contribute to your QA initiatives.
+
+Thank you for your time and consideration.
+
+Best regards,
+[TUSHAR MOHAN GAUTAM]
+[+91 8218361006] | [tushargtm27@gmail.com]
